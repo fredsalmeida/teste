@@ -1,0 +1,62 @@
+@CHARSET "ISO-8859-1";
+
+h1 {
+	color: red;
+	text-align: center
+}
+
+img {
+	float: right
+}
+
+p {
+	text-align: right;
+	font-size: 14;
+	font-weight: bold
+}
+
+#p_mec {
+	color: blue
+}
+
+table {
+	margin-right: auto;
+	margin-left: auto;
+	width: 90px;
+	height: 30px
+}
+
+a:visited {
+	color: green
+}
+
+h3 {
+	text-decoration: underline;
+	font-size: 16;
+}
+
+.input:hover {
+	background-color: red
+}
+
+em {
+	background-color: red
+}
+
+.format_qualquer {
+	background-color: green
+}
+
+p.format_t {
+	color: red
+}
+
+div {
+	text-decoration: underline;
+	text-align: center
+}
+
+span.teste {
+	color: gray;
+	text-align: left
+}
